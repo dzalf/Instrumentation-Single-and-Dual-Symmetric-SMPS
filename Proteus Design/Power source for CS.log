@@ -1,0 +1,12 @@
+# Writing all output to: C:\Users\Daniel\Dropbox\PhD-Manchester\Electronics projects\Symmetric switched power supply\Power source for CS.log
+set pad_wire_necking on
+bus diagonal
+fanout 10
+route 60
+clean 5
+route 60 16
+clean 5
+filter 5
+recorner diagonal
+status_file
+
