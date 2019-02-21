@@ -1,5 +1,5 @@
 # Symmetric-switched-mode-power-supply-SMPS-
-**This is a single and symmetric power supply for electronic instrumentation circuits**
+**This is both a single and symmetric power supply for electronic instrumentation circuits**
 
 
 **WELCOME ALL!**
