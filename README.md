@@ -29,7 +29,7 @@ Here's a view of the PCB (first revision) drawn in Proteus 8.4/8.6.
 
 There are several pending improvements, however the power supply works acceptably well. 
 
-1. One of the main issues to tackle is the output ripple which is minimised by a passive subber and RLC filter at the output.
+1. One of the main issues to tackle is the output ripple which is minimised by a passive snubber and RLC filter at the output.
 2. The footprint from the LM311 was different fro the actual device and thus the first version has an error that made necessary to use a jumper wire to correct this.
 3. Port it to kiCAD!
 
